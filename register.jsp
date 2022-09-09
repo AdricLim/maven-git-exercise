@@ -16,7 +16,7 @@ Language:<select name="language">
 <option>French</option>
 <option>Spanish</option>
 <option>Malay</option>
-<option>Latin1</option>
+<option>Latin2</option>
 </select>
 <input type="submit" value="Call Servlet" />
 </form>
